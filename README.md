@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## Requirements
 
 - Windows 10 or 11, 64-bit
